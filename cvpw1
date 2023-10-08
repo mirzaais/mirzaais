@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <h1 align="center">CURRICULUM VITAE</h1>
+    </head>
+    <body>
+        <h2>Data Pribadi</h2>
+        <hr>
+        
+        <img src="https://northumberland.ac.uk/app/uploads/2021/05/SC_Staff_Governor_Profile-1024x852-1-932x584-1.jpeg" align=right width=90/>
+        <p>Nama : Damai Mirza Isfahani</p>
+        <p>TTL  : Bogor, 18 Mei 2005</p>
+        <p>Agama: Islam</p>
+        <p>No heandphone :0812345654321</p>
+        <p>Email : damaimirza08@gmail.com</p>
+        <h2>Data Pendidikan </h2>
+        <hr>
+        
+    <ol>
+      <li> SMP : SMPT Ar rasyid (2017-2019)</li>
+        <li> SMA : SMA IT AMALIA(2020-2023)</li>
+   <li> Perguruan Tinggi : STT Terpadu Nurul Fikri(2023-2026)</li>
+    </ol>
+    
+    <h2>relevant skill</h2>
+    <hr>
+    
+    <ul>
+        <li>mampu berkomunikasi dengan baik</li>
+        <li>dapat beradaptasi dengan cepat</li>
+        <li>mampu manajemen waktu dengan baik</li>
+        
+    </ul>
+    <h2>Pengalaman</h2>
+    <hr>
+    <p>freh graduate</p>
+    
+    </body>
+</html>
