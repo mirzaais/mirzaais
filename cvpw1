@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <h1 align="center">CURRICULUM VITAE</h1>
+       <h1 align="center">CURRICULUM VITAE</h1>
     </head>
     <body>
         <h2>Data Pribadi</h2>
@@ -33,7 +33,7 @@
     </ul>
     <h2>Pengalaman</h2>
     <hr>
-    <p>freh graduate</p>
+    <p>fresh graduate</p>
     
     </body>
 </html>
