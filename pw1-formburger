@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>dokumen 3</title>
+    </head>
+    <body style="background-color:bisque;">
+        <fieldset>
+            <legend>
+                <h1>"HEWOO BURGER"</h1>
+            </legend>
+            
+            <p>tersedia untuk pengiriman,buatlah burger impianmu di hewoo burger ini.</p>
+            
+            
+            <form action="pw3" method="post">
+            
+            <p>your information :</p>
+            
+            <label for="pname">Nama :</label>
+            <input type="text" id=pname>
+            
+            <br />
+            <br />
+            
+             <label for="adres">Alamat :</label>
+            <input type="text" id=adres>
+            
+            <br /><br />
+            
+            <label for="email">Gmail :</label>
+            <input type="email" id=email>
+            
+            <br /> <br />
+            
+             <label for="telep">No.Hp :</label>
+            <input type="number" id=telep>
+            
+            <br /><br />
+            
+            
+    <label for="w3review">instruksi pengiriman: </label>
+    
+<textarea id="w3review" rows="10" cols="40"></textarea>
+            
+            <br />
+            
+            
+            
+            <h3>buat desain burgermu</h3>
+        <p>burger specs</p>
+        
+        <br>
+        
+            <p>choose one:</p>
+            
+            <input type="radio" id="HTML" name="fav_language" value="HTML">
+            <label for="HTML">jumbo burger</label>
+            
+        
+            
+             <input type="radio" id="HTML" name="fav_language" value="HTML">
+            <label for="HTML">small burger</label>
+            
+            <br />
+            
+             <input type="radio" id="HTML" name="fav_language" value="HTML">
+            <label for="HTML">medium burger </label> 
+                    
+        
+            
+             <input type="radio" id="HTML" name="fav_language" value="HTML">
+            <label for="HTML">large burger</label>
+            
+     
+            
+            
+            <!-- burger sayy -->
+            
+            <p>menu :</p>
+            
+            <input type="checkbox" id="oki" name="apa">
+            <label for="oki">crispy burger</label>
+            
+            
+            
+           <input type="checkbox" id="oki" name="apa2">
+            <label for="oki">tripel cheese</label>     
+            
+            <br />
+            
+           <input type="checkbox" id="oki" name="apa3">
+            <label for="oki">beef & cheese</label>    
+            
+                
+    <input type="checkbox" id="oki" name="apa3">
+            <label for="oki">chiken & cheese</label>
+            
+            <br />
+            
+            <input type="checkbox" id="oki" name="apa3">
+            <label for="oki">bacon burger</label>
+            
+            
+            <input type="checkbox" id="oki" name="apa3">
+            <label for="oki">clasic beef</label>
+            
+            
+            <br /> <br />
+            
+           level pedas ↑↓ : <input type="number">
+            
+            <br /><br /><br />
+            
+         <center>  <input type="submit" value="ayo pesan">
+            <input type="reset"></center>
+            
+            
+            
+            </form>
+            
+        </fieldset>
+    </body>
+</html>
