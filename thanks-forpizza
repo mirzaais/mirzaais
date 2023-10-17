@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body style="background-color:Darkseagreen;">
+    <center><h1 style="font-family:times">THANK YOU</h1></center>
+    
+    <Hr color="rosybrown" size="3"></Hr>
+    
+    <p style="font-family:times">Terimakasih telah memilih burger kami di "hewoo burger" kami telah menerima informasi berikut tentang pesanan Anda</p>
+    
+    <h2 style="color:FloralWhite;font-family:times"> Your information</h2>
+    
+    <p style="font-family:times">Nama   : Olivia Natalia</p>
+    
+    
+    <p style="font-family:times">Alamat : jln.cukup tau aja No.18 </p>
+    
+    
+    <p  style="font-family:times">Gmai   : olivinat05@gmail.com</p>
+    
+    
+    <p style="font-family:times" >No.hp  : 085883638019</p>
+    
+    
+    
+    <p style="font-family:times">instruksi pengantaran: berikan kepada anak-anak yang sedang berada di depan rumah</p>
+    
+    
+<h2 style="color:FloralWhite;font-family:times">Your burger</h2>
+    
+    <p style="font-family:times" >ukuran : medium burger</p>
+    
+    
+
+    <p style="font-family:times">menu : crispy burger & clasic beef</p>
+    
+    
+    <p style="font-family:times">level pedas: 3 </p>
+    
+    <Hr color="rosybrown " size="3">
+    
+    </body>
+</html>
