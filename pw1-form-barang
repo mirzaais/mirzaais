@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body style="background-color:pink;">
+     <fieldset>
+            <legend>
+            
+                 <h1 style="font-family:times;">.......T-shirt ORDER.......</h1>
+                 
+          </legend>
+            <form action="pw4" method="post">
+            
+        
+          
+               <center> <img src="https://i.pinimg.com/originals/63/c2/ee/63c2ee0ce6a9781832abb6257a5a2f6c.jpg "width=250/></center>
+                
+                
+                <br />
+    <h3 style="font-family:courier; color:darkcyan;">CUSTOMER DETAILS:</h3>
+   
+   
+   <label style="font-family:times;"for="pname">Name :</label>
+            <input type="text" id=pname>
+            
+            
+            <br />
+            <br />
+            
+            <label style="font-family:times;" for="palamat">Addres :</label>
+            <input type="text" id=palamat>
+            
+            <br />
+            <br />
+            
+                 <label style="font-family:times;" for="email">Mail/phone :</label>
+            <input type="text" id=email>
+            
+            <br />
+            <br />
+            
+            
+            
+            
+            <img src="https://gear.themonetizr.com/cdn/shop/products/TSHIRT-unisex_sizes_UNISEX_8b26ec44-b4d3-413e-874b-d14547c8f3e7_480x480.png?v=1592387670" width=200>
+            
+              <h3 style="font-family:courier; color:darkcyan;">choose your size:</h3>
+              
+               <input type="radio" id="ukrn" name="size"value="size">
+            <label for="ukrn">S</label>
+            
+    
+            
+                <input type="radio" id="ukrn" name="size"value="size">
+            <label for="ukrn">M</label>
+            
+            
+            <br />
+            
+                <input type="radio" id="ukrn" name="size"value="size">
+            <label for="ukrn">L</label>
+            
+                <input type="radio" id="ukrn" name="size"value="size">
+            <label for="ukrn">XL</label>
+            
+            
+            
+            <br />
+            
+            
+                <input type="radio" id="ukrn" name="size"value="size">
+            <label for="ukrn">2XL</label>
+            
+            
+            
+                <input type="radio" id="ukrn" name="size"value="size">
+            <label for="ukrn">3XL</label>
+            
+            <br />
+            
+        
+         <h3 style="font-family:courier; color:darkcyan;">choose your color:</h3>
+              
+            
+        <input type="radio" id="ukrn" name="size"value="size">
+            <label for="ukrn">Lilac</label>
+            
+            
+            <input type="radio" id="ukrn" name="size"value="size">
+            <label for="ukrn">sage</label>
+            <br />
+            
+            <input type="radio" id="ukrn" name="size"value="size">
+            <label for="ukrn">olive</label>
+            
+            
+            <input type="radio" id="ukrn" name="size"value="size">
+            <label for="ukrn">black</label>
+            <br />
+            
+            <input type="radio" id="ukrn" name="size"value="size">
+            <label for="ukrn">white</label>
+             
+             
+             <input type="radio" id="ukrn" name="size"value="size">
+            <label for="ukrn">maroon</label>
+              
+              <br />
+              <br />
+              
+               <label style="color:darkcyan;font-family:times;" for="w3review">Details your design: </label>
+              <textarea id="w3review" rows="10" cols="40"></textarea>
+              
+              <br /><br />
+              
+              <h3 style="font-family:courier; color:darkcyan;">payment type:</h3>
+              
+  <input type="radio" id="ukrn" name="size"value="size">
+            <label for="ukrn">Debit</label>
+            <br />  
+            
+            <input type="radio" id="ukrn" name="size"value="size">
+            <label for="ukrn">COD</label>
+            <br /><br />
+            
+            <center><input type="submit" value="klik disini jika selesai"></center>
+            
+          </form>  
+    </body>
+</html>
