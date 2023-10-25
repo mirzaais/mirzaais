@@ -1,0 +1,104 @@
+  <!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <title>Document</title>    
+    <style>
+        body{
+            background-color:#008080;
+            
+            }
+            
+         .kolom1{
+             height:200px;
+             width:28%;
+             float: left;
+             margin:10px;
+             padding: 10px;
+         }
+         
+         .kolom2{ height: 200px;
+            width: 28%;
+            float: left;
+            margin: 10px;
+            padding: 10px;
+
+         }
+         
+      
+         
+        
+           
+           
+           
+           
+    </style>
+ </head>
+ <body>
+    
+    <!--HADER-->
+    
+    <table style="width:100%;">
+        <tbody>
+            <tr>
+                <td>
+                    <img width="175px" src=" https://cdn.icon-icons.com/icons2/2574/PNG/512/profile_picture_user_icon_153847.png"/>
+                </td>
+                
+                <td>
+                    <h1 style="font-family:courier;">Profil name</h1>
+                    <p>Nama: Damai Mirza Isfahani</p>
+                    <p>Alamat : cibinong kabupaten bogor</p>
+                    <p>Email: mirzais1818@gmail.com</p>
+                    
+                </td>
+                
+                <td>
+                    <h2>categories</h2>
+                    <p>
+                        <a href="youtube">apayaa</a>
+                    </p>
+                    <p>
+                        <a href="">kontak</a>
+                    </p>
+                      <p>
+                        <a href="">ceritanyalink</a>
+                    </p>
+                </td>
+                
+    
+            </tr>
+            
+        </body>
+    </table>
+    
+    <!--main content-->
+    
+ <p>hallo haiii semua perkenalkan nama aku damai mirza isfahani kalian bisa panggil aku mirza,di paragraf ini aku gatau harus isi apa ges sebenernya harus isi tentang biodata gitu tapi aga bingung yaa kalau di jadiin paragraf gini.</p>
+ 
+ <p>dan ditugas kali ini,udah mulai aga bingung tapi kalau paham seru koo apalagi kalau ga ada erornya dan ada contoh nya yang bnr² jelas.</p>
+    <br>
+    
+    
+    
+    <br>
+        
+        <!--footer-->
+        
+        
+        
+        <div class="kolom1">
+        
+        <iframe src="https://www.youtube.com/embed/S0Kez6MERGE?si=wZqj0QSdOLxsuXWO" width:200px> </iframe>
+        </div>
+        
+        
+        <div class="kolom2"><div class="gmap_canvas"><iframe class="gmap_iframe" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=319&amp;height=175&amp;hl=en&amp;q=stt terpadu nurul fikri&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe><a href="https://connectionsgame.org/"></a></div>
+        
+        
+        </div>
+        
+    </body>
+</html>
+    
