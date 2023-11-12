@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>uts</title>
+        <style>
+            label{
+                font-weight: bold;
+            }
+            .form-gruop{
+                margin-bottom:10px;
+            }
+            .form-container{
+                background-color:#E9967A;
+                padding:3em;
+                border:2px dotted blue;
+                border-radius:5px;
+                box-shadow:0 0 10px black;
+                width:300px;
+                margin:100px auto;
+                
+            }
+            
+            body{
+                font-family:arial;
+            }
+            h2{
+                text-align:center;
+            }
+            input{
+                float:right;
+            }
+            input[type="submit"]{
+                background-color:black;
+                color:#fff;
+                border-radius: 3px;
+                padding: 10px 15px;
+                cursor: pointer;
+            }
+            
+            input, select{
+                float:right;
+                color:grey;
+                
+            }
+            
+        </style>
+    </head>
+    <body>
+        <div class="form-container">
+            <h2>
+                form entry data pegawai
+            </h2>
+            <hr>
+            
+            <form action="">
+            <div class="form-gruop">
+                <label for="nik">nik</label>
+                <input type="text" id="nik">
+            </div>
+            
+             <div class="form-gruop">
+                <label for="nma">nama</label>
+                <input type="text"id="nma">
+            </div>
+            
+               <div class="form-gruop">
+                <label for="gmpng">tempat lahir</label>
+                <input type="text"id="gmpng">
+            </div>  
+            <div class="form-gruop">
+                <label for="gmpng">tanggal lahir</label>
+                <input type="text"id="gmpng">
+            </div>  
+            
+            <div class="form-gruop">
+                <label for="gmpng">alamat</label>
+                <input type="text"id="gmpng">
+            </div>        
+            
+            
+            <div class="form-gruop">
+                <label for="gmpng">no telepon</label>
+                <input type="text"id="gmpng">
+            </div>    
+            
+            
+                  <div class="form-gruop">
+                <label for="gmpng">jabatan</label>
+                
+            
+                
+                <select name="jabatan" id="jabatan">
+                    <option value="jabatan">sarjana administrasi</option>
+                        
+                    <option value="jabatan">sarjana akuntansi</option>
+                    <option value="jabatan">sarjana hukum</option>
+                    <option value="jabatan">lainnya</option>
+                </select>
+            </div>
+            
+            
+              <div class="form-gruop">
+                <label for="gmpng">no telepon</label>
+            
+            <select name="status" id="status">
+                
+                 <option value="jabatan">menikah</option>
+                        
+                    <option value="jabatan">belum menikah</option>
+                    <option value="jabatan">cerai</option>
+                
+            </select>
+            
+            </div>  
+            
+            
+                <input type="submit" value="simpan">
+            </form>
+        </div>
+    </body>
+</html>
