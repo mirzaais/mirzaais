@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        
+        <body style="background-color:#5F9EA0;">
+          
+    </head>
+    <body>
+    <fieldset>
+    <legend>form daftar seminar TA</legend>
+    <table style="width: 85%"></table>
+    
+            
+            <form action="">
+            <div class="form-gruop">
+                <label for="nik">nim :</label>
+                <input type="text" id="nik">
+            </div>
+            <br />
+             <div class="form-gruop">
+                <label for="nma">nama :</label>
+                <input type="text"id="nma">
+            </div>
+            <br />
+               <div class="form-gruop">
+                <label for="gmpng">prodi :</label>
+                <select name="jabatan" id="jabatan">
+                    <option value="jabatan">sistem informasi</option>
+                        
+                    <option value="jabatan">teknik informatika</option>
+                    <option value="jabatan">bisnis digital</option>
+                    <option value="jabatan">lainnya</option> </select>
+                    <br /><br />
+                    <div class="form-gruop">
+                     <label for="tanggal">tanggal seminar :</label>
+                     <input type="date" id="tanggal">
+                    </div>
+                    
+                    <br />
+                     <div class="form-gruop">
+                <label for="jam">jam seminar :</label>
+                <input type="text"id="jam">
+            </div>
+            <br />
+             <div class="form-gruop">
+                <label for="ruang">Ruangan :</label>
+                <input type="text"id="ruang">
+            </div>
+            <br />
+            
+   <label for="w3review">Judul Ta:</label>
+    
+<textarea id="w3review" rows="5" cols="30"></textarea>
+ <br /><br />
+            <div class="form-gruop">
+                <label for="gmpng">seminar :</label>
+                    
+                <select name="jabatan" id="jabatan">
+      <option value="jabatan">proposal</option>
+                        
+               <option value="jabatan">lainnya</option>
+                    </select>
+                    <br /><br />
+                    <div class="form-gruop">
+                <label for="gmpng">pembimbing :</label>
+                
+                    
+                <select name="jabatan" id="jabatan">
+               <option value="jabatan">Sirojul Munir S.SI, M.KOM</option>
+               <option value="jabatan">lainnya</option>
+                    </select>
+                    <br /><br />
+                    
+                 <div class="form-gruop">
+                <label for="gmpng">penguji1 :</label>
+                
+                    
+                <select name="jabatan" id="jabatan">
+               <option value="jabatan">Ahmad Rio M.SI</option>
+               <option value="jabatan">lainnya</option>
+                    </select>
+                    <br /><br />
+                    
+                     <div class="form-gruop">
+                <label for="gmpng">penguji2 :</label>
+                
+                    
+                <select name="jabatan" id="jabatan">
+               <option value="jabatan">Amalia Rahmah M.T</option>
+               <option value="jabatan">lainnya</option>
+  </select> 
+  <br /><br />
+  
+             <input type="submit" value="update">
+             <input type="reset"  value="hapus">
+                    
+                  </form>
+                </div>
+    </fieldset>
+    
+    
+    
+        
+    
+    </body>
+</html>
